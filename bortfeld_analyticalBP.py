@@ -1,3 +1,6 @@
+""" 
+This file was tested in Python 2.7, Numpy 1.8.0, Scipy 0.13.3
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.special import gamma, pbdv
